@@ -121,10 +121,10 @@ function toggleMusic() {
 const quotes = [
     "You are my world.",
     "I love you so much",
-    "I cant live without you, Lesly.",
+    "I cant live without you, Mimi.",
     "I miss your warmth always.",
     "You are my guardian angel.",
-    "God, Thank you for Lesly.",
+    "God, Thank you for Mimi.",
     "You healed me.",
     "No one compares to you.",
     "I can't wait grow with you."
