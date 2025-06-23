@@ -127,7 +127,7 @@ const quotes = [
     "God, Thank you for Mimi.",
     "You healed me.",
     "No one compares to you.",
-    "I can't wait grow with you."
+    "I will wait grow for you."
 ];
 
 let currentQuoteIndex = 0;
