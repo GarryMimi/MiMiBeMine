@@ -74,7 +74,7 @@ function typeText(element, text) {
     }, 200);
 }
 
-const heroTextContent = 'Youre the love of my life.';
+const heroTextContent = 'I miss you so much :(';
 typeText(heroText, heroTextContent);
 
 const fontChangeInterval = setInterval(() => {
